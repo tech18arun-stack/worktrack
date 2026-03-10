@@ -35,8 +35,8 @@
         }
     },
     "geofencing": {
-        "officeLat": 13.0827,
-        "officeLng": 80.2707,
+        "officeLat": 11.6375055,
+        "officeLng": 78.3353523,
         "radius": 100,
         "enabled": true
     },
