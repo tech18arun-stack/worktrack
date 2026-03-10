@@ -1,0 +1,17 @@
+{
+  "appwrite": {
+    "endpoint": "https://api.edizo.in/v1",
+    "projectId": "69afe01b000fe927a5b4",
+    "databaseId": "69afe0490022c47e0c3c",
+    "collections": {
+      "users": "users",
+      "tasks": "tasks",
+      "attendance": "attendance",
+      "taskUploads": "task_uploads"
+    },
+    "storage": {
+      "taskFiles": "task-files",
+      "profileImages": "profile-images"
+    }
+  }
+}
