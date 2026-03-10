@@ -1,17 +1,33 @@
 {
-  "appwrite": {
-    "endpoint": "https://api.edizo.in/v1",
-    "projectId": "69afe01b000fe927a5b4",
-    "databaseId": "69afe0490022c47e0c3c",
-    "collections": {
-      "users": "users",
-      "tasks": "tasks",
-      "attendance": "attendance",
-      "taskUploads": "task_uploads"
+    "appwrite": {
+        "endpoint": "https://api.edizo.in/v1",
+        "projectId": "69afe01b000fe927a5b4",
+        "databaseId": "69afe0490022c47e0c3c",
+        "collections": {
+            "users": "users",
+            "tasks": "tasks",
+            "attendance": "attendance",
+            "taskUploads": "task_uploads"
+        },
+        "storage": {
+            "taskFiles": "task-files",
+            "profileImages": "profile-images"
+        }
     },
-    "storage": {
-      "taskFiles": "task-files",
-      "profileImages": "profile-images"
+    "geofencing": {
+        "officeLat": 13.0827,
+        "officeLng": 80.2707,
+        "radius": 100,
+        "enabled": true
+    },
+    "attendance": {
+        "lateHour": 10
+    },
+    "appUpdate": {
+        "version": "1.0.0",
+        "buildNumber": 2,
+        "forceUpdate": true,
+        "updateUrl": "https://raw.githubusercontent.com/tech18arun-stack/worktrack/refs/heads/main/update.zip",
+        "updateDescription": "Improved attendance tracking, real-time dashboard analytics, and automated unzipping installer."
     }
-  }
 }
