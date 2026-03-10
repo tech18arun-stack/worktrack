@@ -24,10 +24,10 @@
         "lateHour": 10
     },
     "appUpdate": {
-        "version": "1.0.0",
+        "version": "1.1.1",
         "buildNumber": 2,
         "forceUpdate": true,
-        "updateUrl": "https://raw.githubusercontent.com/tech18arun-stack/worktrack/refs/heads/main/update.zip",
+        "updateUrl": "https://api.edizo.in/v1/storage/buckets/69b03ab70017f69adb39/files/69b03cd0001cc06f39c0/download?project=69afe01b000fe927a5b4&mode=adminp",
         "updateDescription": "Improved attendance tracking, real-time dashboard analytics, and automated unzipping installer."
     }
 }
