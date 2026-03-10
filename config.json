@@ -1,10 +1,10 @@
 {
     "app": {
         "name": "WorkTrack",
-        "latest_version": "1.2.2",
+        "latest_version": "1.3.0",
         "min_supported_version": "1.1.0",
         "force_update": true,
-        "update_message": "A new version of WorkTrack (1.2.2) is available with Settings feature! Please update to continue.",
+        "update_message": "A new version of WorkTrack (1.3.0) is available with Settings feature! Please update to continue.",
         "download_url": "https://api.edizo.in/v1/storage/buckets/69b03ab70017f69adb39/files/69b04ac0000a30b6eeb4/download?project=69afe01b000fe927a5b4&mode=admin"
     },
     "server": {
