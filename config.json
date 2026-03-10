@@ -24,7 +24,7 @@
         "lateHour": 10
     },
     "appUpdate": {
-        "version": "1.2.2",
+        "version": "1.3.2",
         "buildNumber": 4,
         "forceUpdate": true,
         "updateUrl": "https://api.edizo.in/v1/storage/buckets/69b03ab70017f69adb39/files/69b044e800173d53e33a/download?project=69afe01b000fe927a5b4&mode=admin",
